@@ -1,0 +1,6 @@
+project: bumpalo
+target: chaos
+
+cmds:
+  - cmd: /mayhem/chaos
+    libfuzzer: true
